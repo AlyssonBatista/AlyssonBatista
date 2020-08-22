@@ -7,7 +7,7 @@
 
 ### Hellooo! 👋 Welcome to my profile
 
-    Studant front-end developer.
+    Student front-end developer.
 
   - 🌱 Currently learning JavaScript 
  
