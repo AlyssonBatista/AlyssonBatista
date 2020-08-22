@@ -7,10 +7,9 @@
 
 ### Hellooo! 👋 Welcome to my profile
 
-My name is Alysson Batista and I'm front-end developer.
+    Studant front-end developer.
 
- - 💙 In love with JavaScript
- - 🌱 Currently learning ruby  
+  - 🌱 Currently learning JavaScript 
  
  
 
