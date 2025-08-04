@@ -1,10 +1,3 @@
-<h1 align="center">Hi 👋, I'm Alysson Batista de Souza</h1>
-<h3 align="center">A passionate frontend developer from Brasil</h3>
-
- 
-
-
-
 <details open>
 <summary>GitHub Contribution Chart</summary>
 <p align="center">
